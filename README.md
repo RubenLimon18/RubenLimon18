@@ -136,9 +136,9 @@ Hi, I'm Ruben Limon!
 <summary><b>⚡ Ruben Limon's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RubenLimon18&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenLimon18" alt="bouaskaoun">
+	<a href="https://github.com/RubenLimon18">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RubenLimon18&show_icons=true" alt="RubenLimon18">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenLimon18" alt="RubenLimon18">
 	</a>
 	<br/>
 </p>
@@ -153,22 +153,7 @@ Hi, I'm Ruben Limon!
 </p>
 <br/>
 -->
-<!-- <summary><b>⚡ Top Languages</b></summary>
-<br/>
 
-<p align="center">
-	<a href="https://github.com/RubenLimon18">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenLimon18&langs_count=8&layout=compact" alt="RubenLimon18">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-
-
-
-------
 
 [Ruben Limon Rangel](https://github.com/RubenLimon18)
 
