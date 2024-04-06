@@ -119,6 +119,31 @@ Hi, I'm Ruben Limon!
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
+
+
+<h3 align="center">Languages</h3>
+<p align="center"> 
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javaScript"/>
+  </a>
+  <a href="https://www.java.com/es/" target="_blank"> 
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  </a>
+
+</p>
+
+
+
+
 </br>
 
 
